@@ -50,3 +50,6 @@ This is a simple Flask application that simulates a data retrieval and processin
     ```bash
     curl http://127.0.0.1:5000/get-processed-data
     ```
+
+Run code :- python app.py
+
